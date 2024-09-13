@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @KamelSOUDANI
   I'm particularly interested in developing methods and  Big Data modeling using AI techniques for applications in a wide range of fields.
   For more information - follow links below :
-https://medium.com/@soudanik
-https://www.researchgate.net/profile/Kamel-Soudani
-https://scholar.google.fr/citations?user=nFBGUyYAAAAJ&hl=fr
+https://medium.com/@soudanik ;
+
+https://www.researchgate.net/profile/Kamel-Soudani ;
+
+https://scholar.google.fr/citations?user=nFBGUyYAAAAJ&hl=fr ;
+
 
   
 <!---
